@@ -1,0 +1,36 @@
+{
+  "os": "Linux-7.0.0-31-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.5",
+  "startedAt": "2026-09-17T15:28:29.685535Z",
+  "program": "/home/bode-murairi/Documents/programming/ml/assignments/tensor_flow/tensorflow_keras_part3_full_pipeline (2).ipynb",
+  "codePath": "/home/bode-murairi/Documents/programming/ml/assignments/tensor_flow/tensorflow_keras_part3_full_pipeline (2).ipynb",
+  "codePathLocal": "tensorflow_keras_part3_full_pipeline (2).ipynb",
+  "email": "b.murairi@alustudent.com",
+  "root": "/home/bode-murairi/Documents/programming/ml/assignments/tensor_flow",
+  "host": "bode-murairi-HP-ProBook-450-15-6-inch-G10-Notebook-PC",
+  "executable": "/home/bode-murairi/anaconda3/bin/python",
+  "cpu_count": 10,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 2050",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "501809635328",
+      "used": "207502839808"
+    }
+  },
+  "memory": {
+    "total": "16389627904"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2050",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere",
+      "uuid": "GPU-78b2aa5a-31ea-1b1b-8260-ffef4c8e1549"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "uarym0eu8bodlbhvv5fon4p63vjy45pr"
+}

@@ -1,0 +1,76 @@
+_wandb:
+    value:
+        cli_version: 0.30.0
+        e:
+            rl5mj60laou85wj71r9by6cz5ejgw2j5:
+                codePath: /home/bode-murairi/Documents/programming/ml/assignments/tensor_flow/tensorflow_keras_part3_full_pipeline (2).ipynb
+                codePathLocal: tensorflow_keras_part3_full_pipeline (2).ipynb
+                cpu_count: 10
+                cpu_count_logical: 12
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "501809635328"
+                        used: "207518994432"
+                email: b.murairi@alustudent.com
+                executable: /home/bode-murairi/anaconda3/bin/python
+                gpu: NVIDIA GeForce RTX 2050
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 2048
+                      memoryTotal: "4294967296"
+                      name: NVIDIA GeForce RTX 2050
+                      uuid: GPU-78b2aa5a-31ea-1b1b-8260-ffef4c8e1549
+                host: bode-murairi-HP-ProBook-450-15-6-inch-G10-Notebook-PC
+                memory:
+                    total: "16389627904"
+                os: Linux-7.0.0-31-generic-x86_64-with-glibc2.39
+                program: /home/bode-murairi/Documents/programming/ml/assignments/tensor_flow/tensorflow_keras_part3_full_pipeline (2).ipynb
+                python: CPython 3.13.5
+                root: /home/bode-murairi/Documents/programming/ml/assignments/tensor_flow
+                startedAt: "2026-09-17T15:21:34.639424Z"
+                writerId: rl5mj60laou85wj71r9by6cz5ejgw2j5
+        m:
+            - "1": epoch/epoch
+              "6":
+                - 3
+              "7": []
+            - "2": epoch/*
+              "5": 1
+              "6":
+                - 1
+              "7": []
+        python_version: 3.13.5
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "3":
+                - 2
+                - 7
+                - 13
+                - 16
+                - 38
+            "4": 3.13.5
+            "5": 0.30.0
+            "8":
+                - 1
+                - 2
+            "10":
+                - 20
+            "12": 0.30.0
+            "13": linux-x86_64
+architecture:
+    value: Sequential
+description:
+    value: Increase the number of neurones in output layers to check if model can extract more pattern

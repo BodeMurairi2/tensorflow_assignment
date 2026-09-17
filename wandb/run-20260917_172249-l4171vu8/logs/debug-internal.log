@@ -1,0 +1,21 @@
+{"time":"2026-09-17T17:22:49.293953839+02:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-09-17T17:22:49.294244306+02:00","level":"INFO","msg":"stream: starting","core version":"0.30.0"}
+{"time":"2026-09-17T17:22:49.309851712+02:00","level":"INFO","msg":"stream: created new stream","id":"l4171vu8"}
+{"time":"2026-09-17T17:22:49.310058024+02:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-09-17T17:22:49.310318488+02:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-09-17T17:22:49.310342952+02:00","level":"INFO","msg":"writer: started","stream_id":"l4171vu8"}
+{"time":"2026-09-17T17:22:49.310413934+02:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-09-17T17:22:51.526827532+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":0,"events_lines":1}
+{"time":"2026-09-17T17:22:52.31263817+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-09-17T17:23:06.527037442+02:00","level":"INFO","msg":"filestream: sending request","total_files":2,"events_offset":1,"events_lines":1,"console_offset":0,"console_lines":3,"uploaded_len":2}
+{"time":"2026-09-17T17:23:07.156659388+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-09-17T17:25:30.602598688+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":2,"events_lines":1}
+{"time":"2026-09-17T17:25:31.077726026+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-09-17T17:25:33.339910616+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-09-17T17:25:33.340180615+02:00","level":"INFO","msg":"filestream: sending request","total_files":2,"events_offset":3,"events_lines":1,"uploaded_len":3,"complete":true,"exit_code":0}
+{"time":"2026-09-17T17:25:33.761535369+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-09-17T17:25:33.769659572+02:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-09-17T17:25:33.780269545+02:00","level":"INFO","msg":"stream: finishing up"}
+{"time":"2026-09-17T17:25:33.780412649+02:00","level":"INFO","msg":"handler: closed"}
+{"time":"2026-09-17T17:25:33.780697814+02:00","level":"INFO","msg":"sender: closed"}
+{"time":"2026-09-17T17:25:33.7807672+02:00","level":"INFO","msg":"stream: all finished"}

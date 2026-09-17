@@ -1,0 +1,22 @@
+2026-09-17 17:25:31,549 INFO    MainThread:188011 [wandb_init.py:setup_run_log_directory():739] Logging user logs to /home/bode-murairi/Documents/programming/ml/assignments/tensor_flow/wandb/run-20260917_172531-h4mrd0lb/logs/debug.log
+2026-09-17 17:25:31,550 INFO    MainThread:188011 [wandb_init.py:setup_run_log_directory():740] Logging internal logs to /home/bode-murairi/Documents/programming/ml/assignments/tensor_flow/wandb/run-20260917_172531-h4mrd0lb/logs/debug-internal.log
+2026-09-17 17:25:31,550 INFO    MainThread:188011 [wandb_init.py:init():783] calling init triggers
+2026-09-17 17:25:31,550 INFO    MainThread:188011 [wandb_init.py:init():788] wandb.init called with sweep_config: {}
+config: {'architecture': 'Sequential', 'description': 'Increase the number of neurones in output layers to check if model can extract more pattern', '_wandb': {}}
+2026-09-17 17:25:33,780 INFO    MainThread:188011 [wandb_init.py:init():831] starting backend
+2026-09-17 17:25:33,780 INFO    MainThread:188011 [wandb_init.py:init():846] sending inform_init request
+2026-09-17 17:25:33,795 INFO    MainThread:188011 [wandb_init.py:init():851] backend started and connected
+2026-09-17 17:25:33,808 INFO    MainThread:188011 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2026-09-17 17:25:33,811 INFO    MainThread:188011 [wandb_init.py:init():921] updated telemetry
+2026-09-17 17:25:33,821 INFO    MainThread:188011 [wandb_init.py:init():944] communicating run to backend with 90.0 second timeout
+2026-09-17 17:25:35,393 INFO    MainThread:188011 [wandb_init.py:init():981] starting run threads in backend
+2026-09-17 17:25:35,825 INFO    MainThread:188011 [wandb_run.py:_console_start():2531] atexit reg
+2026-09-17 17:25:35,826 INFO    MainThread:188011 [wandb_run.py:_redirect():2381] redirect: wrap_raw
+2026-09-17 17:25:35,826 INFO    MainThread:188011 [wandb_run.py:_redirect():2450] Wrapping output streams.
+2026-09-17 17:25:35,826 INFO    MainThread:188011 [wandb_run.py:_redirect():2473] Redirects installed.
+2026-09-17 17:25:35,828 INFO    MainThread:188011 [wandb_init.py:init():1019] run started, returning control to user process
+2026-09-17 17:26:38,404 INFO    MainThread:188011 [wandb_run.py:_finish():2303] finishing run b-murairi-african-leadership-university/intro-tensorflow-BodeMurairi/h4mrd0lb
+2026-09-17 17:26:38,404 INFO    MainThread:188011 [wandb_run.py:_atexit_cleanup():2498] got exitcode: 0
+2026-09-17 17:26:38,405 INFO    MainThread:188011 [wandb_run.py:_restore():2480] restore
+2026-09-17 17:26:38,405 INFO    MainThread:188011 [wandb_run.py:_restore():2486] restore done
+2026-09-17 17:26:42,515 INFO    MainThread:188011 [wandb_run.py:_footer_sync_info():3901] logging synced files
